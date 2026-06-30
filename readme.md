@@ -60,11 +60,10 @@ Once the target listings are extracted, the script executes individual outbound 
 ------
 
 ## 📦 Installation & Setup
-
 1. **Clone the Repository:**
-   ```bash
-   git clone [https://github.com/YOUR_USERNAME/your-repository-name.git](https://github.com/YOUR_USERNAME/your-repository-name.git)
-   cd your-repository-name
+```bash
+git clone (https://github.com/Macanthony7/map-scrapper.git)
+cd your-repository-name
 
 ```
 
